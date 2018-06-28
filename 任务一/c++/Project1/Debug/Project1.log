@@ -1,0 +1,94 @@
+﻿  main.cpp
+c:\users\administrator\desktop\project1\project1\main.cpp(10): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(10): error C2146: 语法错误: 缺少“)”(在标识符“define”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(10): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(10): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(11): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(11): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(11): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(11): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(12): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(12): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(12): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(13): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(13): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(13): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(13): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(14): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(14): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(14): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(14): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(15): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(15): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(15): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(15): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(16): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(16): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(16): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(16): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(17): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(17): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(17): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(17): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(18): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(18): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(18): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(18): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(19): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(19): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(19): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(19): error C2059: 语法错误:“,”
+c:\users\administrator\desktop\project1\project1\main.cpp(20): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(20): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\administrator\desktop\project1\project1\main.cpp(20): error C2121: “#”: 无效字符 : 可能是宏扩展的结果
+c:\users\administrator\desktop\project1\project1\main.cpp(21): error C2059: 语法错误:“}”
+c:\users\administrator\desktop\project1\project1\main.cpp(21): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(23): error C3927: "->": 非函数声明符后不允许尾随返回类型
+c:\users\administrator\desktop\project1\project1\main.cpp(23): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\administrator\desktop\project1\project1\main.cpp(23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(23): error C2040: “mm”:“int”与“MazeMap *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(23): error C2146: 语法错误: 缺少“;”(在标识符“setMazeMap”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(24): error C3927: "->": 非函数声明符后不允许尾随返回类型
+c:\users\administrator\desktop\project1\project1\main.cpp(24): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\administrator\desktop\project1\project1\main.cpp(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(24): error C2040: “mm”:“int”与“MazeMap *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(24): error C2146: 语法错误: 缺少“;”(在标识符“setExitPosition”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(25): error C3927: "->": 非函数声明符后不允许尾随返回类型
+c:\users\administrator\desktop\project1\project1\main.cpp(25): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\administrator\desktop\project1\project1\main.cpp(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(25): error C2040: “mm”:“int”与“MazeMap *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(25): error C2146: 语法错误: 缺少“;”(在标识符“pintMazeMap”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(27): error C3927: "->": 非函数声明符后不允许尾随返回类型
+c:\users\administrator\desktop\project1\project1\main.cpp(27): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\administrator\desktop\project1\project1\main.cpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(27): error C2040: “man”:“int”与“MazeMan *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(27): error C2146: 语法错误: 缺少“;”(在标识符“setPosition”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(28): error C3927: "->": 非函数声明符后不允许尾随返回类型
+c:\users\administrator\desktop\project1\project1\main.cpp(28): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\administrator\desktop\project1\project1\main.cpp(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(28): error C2040: “man”:“int”与“MazeMan *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(28): error C2146: 语法错误: 缺少“;”(在标识符“setMap”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(29): error C3927: "->": 非函数声明符后不允许尾随返回类型
+c:\users\administrator\desktop\project1\project1\main.cpp(29): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\administrator\desktop\project1\project1\main.cpp(29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(29): error C2040: “man”:“int”与“MazeMan *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(29): error C2146: 语法错误: 缺少“;”(在标识符“start”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(30): error C2059: 语法错误:“delete”
+c:\users\administrator\desktop\project1\project1\main.cpp(31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(31): error C2040: “mm”:“int”与“MazeMap *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(32): error C2059: 语法错误:“delete”
+c:\users\administrator\desktop\project1\project1\main.cpp(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(33): error C2040: “man”:“int”与“MazeMan *”的间接寻址级别不同
+c:\users\administrator\desktop\project1\project1\main.cpp(34): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+c:\users\administrator\desktop\project1\project1\main.cpp(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(34): error C2371: “std::cout”: 重定义；不同的基类型
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.13.26128\include\iostream(28): note: 参见“std::cout”的声明
+c:\users\administrator\desktop\project1\project1\main.cpp(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\desktop\project1\project1\main.cpp(35): error C2365: “system”: 重定义；以前的定义是“函数”
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1226): note: 参见“system”的声明
+c:\users\administrator\desktop\project1\project1\main.cpp(36): error C2059: 语法错误:“}”
+c:\users\administrator\desktop\project1\project1\main.cpp(36): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  MazeMan.cpp
+  MazeMap.cpp
+  正在生成代码...
